@@ -185,7 +185,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
     else {
         $(document).ready(function(){
             document.title = 'WINBET299 | Situs Judi Online | Slot | Sbobet Indonesia';
-            $("meta[name='description']").attr('content', 'Winbet299 merupakan salah satu situs judi online yang memberikan berbagai permainan. Permainan yang bisa dimainkan adalah dewa slot online, live casino, tembak ikan, sabung ayam, poker 88 , arcade, togel online, dan sbobet indonesia.');
+            $("meta[name='description']").attr('content', 'Winbet299 merupakan salah satu situs judi online yang memberikan berbagai permainan slot. Permainan yang bisa di mainkan adalah slot online, live casino, tembak ikan, sabung ayam, idn poker 88 , arcade, togel online, dan sbobet indonesia.');
             $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/home');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/home'));
