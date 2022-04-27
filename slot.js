@@ -11,7 +11,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Daftar Slot Online Terbaru Indonesia Terendah dari 20ribu';
             $("meta[name='description']").attr('content', 'Segera daftar menjadi salah satu member anggota slot online terbaru di Indonesia dengan modal 20ribu bisa memainkan berbagai permainan yang sudah disediakan.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/register');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/register');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/register'));
             }});
@@ -20,7 +20,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Sportsbook sbobet Indonesia | Virtual Sport | I-Sports';
             $("meta[name='description']").attr('content', 'Sportsbook sbobet terlengkap di Indonesia dengan berbagai permainan seperti virtual sport, i-sports dan e-sports tidak ketinggalan juga s-sports mix parlay 2 tim.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/sport');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/sport');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/sport'));
             }});
@@ -30,7 +30,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Pragmatic Play | Agen Judi Slot Mudah Menang Jackpot';
                 $("meta[name='description']").attr('content', 'Pragmatic play adalah salah satu agen judi slot dengan server yang menyediakan ragam mesin slots yang bisa dimainkan dengan jackpot yang mudah dimenangkan.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/pragmatic');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/pragmatic');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/pragmatic'));
                 }});
@@ -39,7 +39,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Slot Microgaming | Jackpot Slots Bonus Setiap Hari';
                 $("meta[name='description']").attr('content', 'Slot Microgaming memberikan bonus jackpot slots setiap hari. Tersedia juga beragam jenis permainan yang bisa dimainkan seperti "Fortune Girl", "Fruit Blast", "Arena of Gold" dan masih banyak lagi yang bisa dimainkan.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/microgaming');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/microgaming');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/microgaming'));
                 }});
@@ -48,7 +48,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Slot Playtech | Deposit Murah 20ribu | Sering Jackpot';
                 $("meta[name='description']").attr('content', 'Slot Playtech merupakan slot dengan deposit murah yaitu sekitar 20ribu. Dengan deposit ini, kita bisa memainkan semua jenis game slots yang disediakan oleh playtech dengan mudah.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/playtech');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/playtech');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/playtech'));
                 }});
@@ -57,7 +57,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Joker Slot | Agen Slots Indonesia Populer dan Terpercaya';
                 $("meta[name='description']").attr('content', 'Joker Slot adalah agen slots indonesia yang memberikan keamanan dan kemudahan dalam game sehingga menjadi populer di Indonesia. Jackpot besar juga sering dikeluarkan oleh agen ini.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/joker');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/joker');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/joker'));
                 }});
@@ -66,7 +66,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Habanero Slot | Situs Dewa Judi Slots Online Indonesia';
                 $("meta[name='description']").attr('content', 'Habanero slot adalah game server yang ada di winbet299 dengan permainan slots. Situs dewa judi slots online terpercaya di Indonesia yang memberikan keamanan dan kepercayaan kepada para pemain.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/habanero');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/habanero');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/habanero'));
                 }});
@@ -75,7 +75,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'PGSoft Slot | Situs Judi Slots Online | Mudah Jackpot';
                 $("meta[name='description']").attr('content', 'PGSoft slot adalah agen slot dengan server terpercaya. Situs judi slot online terpercaya dengan berbagai kemudahan dan mudah untuk menang jackpot.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/pgsoft');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/pgsoft');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/pgsoft'));
                 }});
@@ -84,7 +84,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'PlaynGo Slots | Situs Dewa Slot 88 Terpercaya | Agen Slots';
                 $("meta[name='description']").attr('content', 'PlaynGo Slots memberikan kepercayaan kepada winbet299 untuk memberikan pelayanan kepada member situs dewa slot 88 sebagai salah satu situs terpercaya.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/playngo');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/playngo');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/playngo'));
                 }});
@@ -93,7 +93,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Onetouch | Indo Bet | Slot777 | Monster | Demo Slot';
                 $("meta[name='description']").attr('content', 'Onetouch adalah monster slot dengan menggunakan slot777 untuk mendapatkan kemenangan. Dapatkan berbagai ragam demo slot yang bisa kalian coba main. Dapatkan jackpot terbesar slot bersama winbet299 indobet.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots/onetouch');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots/onetouch');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots/onetouch'));
                 }});
@@ -102,7 +102,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
             document.title = 'Slot Online Indonesia Sultan Play | Agen Slots Terpercaya | Situs Judi Online';
             $("meta[name='description']").attr('content', 'Situs agen judi slot online indonesia sultan play terpercaya dengan beragam permainan yang bisa dimainkan hanya menggunakan 1 id saja. Tersedia juga jackpot yang bisa dimenangkan secara online.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/slots');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/slots');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/slots'));
             }});
@@ -112,7 +112,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Dewa Casino Royale Live Online RGO';
             $("meta[name='description']").attr('content', 'Game dewa casino royale yang bisa dimainkan secara live dan online hanya dengan menggunakan modal yang kecil. RGO casino terpercaya di Indonesia.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/casino');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/casino');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/casino'));
             }});
@@ -121,7 +121,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Dewa Poker Online | Agen Idnpoker | Situs Judi Indonesia BalakPlay 1Gaming';
             $("meta[name='description']").attr('content', 'Dewa Poker Online merupakan situs judi agen idnpoker indonesia dengan berbagai permainan seperti balakplay, 1gaming, dan idnplay.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/poker');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/poker');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/poker'));
             }});
@@ -131,7 +131,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
             $(document).ready(function(){
                 document.title = 'Joker Fishing | Game Muka JokerBola 123 Slot';
                 $("meta[name='description']").attr('content', 'Game terbaru tembak ikan joker fishing dengan thema yang menarik dan juga mudah untuk ditangkap. Game Muka Jokerbola123 dan juga slot tersedia di Winbet299.');
-                $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/arcade#jokerFishing');
+                $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/arcade#jokerFishing');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/fishing-joker'));
                 }});
@@ -140,7 +140,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Arcade Game | Claw Machine Games | Winbet299 Indonesia';
             $("meta[name='description']").attr('content', 'Arcade game yang terdiri dari claw machine games, tembak ikan, MM Tangkas, Capit Duit dan Fishing World 2. Games ini hanya bisa dimainkan di Indonesia dan di situs Winbet299.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/arcade');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/arcade');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/arcade'));
             }});
@@ -150,7 +150,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Togel Online Singapore | Keluaran Paito SGP | Erek Erek';
             $("meta[name='description']").attr('content', 'Togel online Singapore dengan berbagai data keluaran paito SGP yang bisa kalian lihat. Dapatkan juga erek erek mimpi untuk anda yang ingin melihat berbagai tanda keluaran angka.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/others');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/others');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/others'));
             }});
@@ -159,7 +159,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Togel Online | Tebak Angka 4D 3D 2D | SGP HK ISIN';
             $("meta[name='description']").attr('content', 'Keluaran agen togel sgp, hk, isin4d online indonesia. Tebak angka bisa dimulai dari 4D 3D 2D colok, shio dengan deposit yang murah dan diskon besar yang keluar setiap hari.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/lottery');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/lottery');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/lottery'));
             }});
@@ -168,7 +168,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Sabung Ayam | Cock Fight | Agen Adu S128 Bangkok Online';
             $("meta[name='description']").attr('content', 'Sabung Ayam atau yang biasa disebut dengan cock fight adalah salah satu permainan adu ayam bangkok online. Agen yang kami berikan adalah berasal dari S128.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/cockfight');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/cockfight');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/cockfight'));
             }});
@@ -177,7 +177,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'Promo WS | Freebet | Bet Gratis | Bonus Deposit | Cashback Mingguan';
             $("meta[name='description']").attr('content', 'Dapatkan promo Ws atau winning streak, freebet atau bet gratis hanya di winbet299. Tidak ketinggalan juga bonus deposit setiap hari dan cashback mingguan yang bisa didapatkan.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/promotion');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/promotion');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/promotion'));
             }});
@@ -186,7 +186,7 @@ if (document.URL.indexOf('173.249.9.99') > 0 ){
         $(document).ready(function(){
             document.title = 'WINBET299 | Situs Judi Online | Slot | Sbobet Indonesia';
             $("meta[name='description']").attr('content', 'Winbet299 merupakan salah satu situs judi online yang memberikan berbagai permainan slot. Permainan yang bisa di mainkan adalah slot online, live casino, tembak ikan, sabung ayam, idn poker 88 , arcade, togel online, dan sbobet indonesia.');
-            $("link[rel='canonical']").attr('href', 'http://173.249.9.99/desktop/home');
+            $("link[rel='canonical']").attr('href', 'http://173.249.9.99:9443/desktop/home');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://173.249.9.99/mobile/home'));
             }});
@@ -200,7 +200,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Daftar & Gabung Ribuan Pemain Judi Online Indonesia';
             $("meta[name='description']").attr('content', 'Segera daftar dan gabung menjadi member dengan jumlah pendaftar yang lebih dari ribuan pemain judi online Indonesia.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/register');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/register');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/register'));
             }});
@@ -209,7 +209,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Detik Sport | HDTV | Bein | SBOBET Indonesia';
             $("meta[name='description']").attr('content', 'Winbet299 memberikan game sport dengan berbagai provider seperti SBOBET Indonesia yang disiarkan langsung dari HDTV, Bein sport live setiap detik.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/sport');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/sport');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/sport'));
             }});
@@ -219,7 +219,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Pragmatic Play | Judi Slot Indonesia | Jackpot Besar';
                 $("meta[name='description']").attr('content', 'Pragmatic play merupakan situs judi slot indonesia dengan berbagai jenis mesin slots online yang bisa dimainkan dengan jackpot besar.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/pragmatic');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/pragmatic');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/pragmatic'));
                 }});
@@ -228,7 +228,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Slot Microgaming | Slot Online Termurah di Indonesia';
                 $("meta[name='description']").attr('content', 'Slot Microgaming adalah slot online termurah di Indonesia. Akan tetapi, game slots ini bukanlah game slots murahan. Rasakan kemenangan dan sensasi yang berbeda.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/microgaming');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/microgaming');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/microgaming'));
                 }});
@@ -237,7 +237,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Slot Playtech | Mega Jackpot Slots Terbesar';
                 $("meta[name='description']").attr('content', 'Playtech slots adalah game slot yang memberikan mega jackpot slots terbesar di Indonesia. Sensasi dan jenis slots yang berbeda setiap mesin slot online.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/playtech');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/playtech');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/playtech'));
                 }});
@@ -246,7 +246,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Joker Slot | Joker123 | Slot Online';
                 $("meta[name='description']").attr('content', 'Joker Slot adalah slot online dengan mesin yang beragam dan bisa dimainkan secara online atau live. Situs judi online slot joker123 terpercaya di Indonesia.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/joker');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/joker');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/joker'));
                 }});
@@ -255,7 +255,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Habanero Slot | Agen Slots Indonesia | Winbet299';
                 $("meta[name='description']").attr('content', 'Habanero slot - game dan juga agen slots winbet299 indonesia dengan masing - masing mesin slots yang bisa dimainkan dengan mudah.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/habanero');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/habanero');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/habanero'));
                 }});
@@ -264,7 +264,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'PGSoft Slot | Agen Slot Winbet 299 | Win Bet 299 88 ';
                 $("meta[name='description']").attr('content', 'PGSoft slot merupakan agen slot winbet 299 yang sudah diberikan kepercayaan oleh pgsoft sebagai salah satu situs judi slot online indonesia.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/pgsoft');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/pgsoft');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/pgsoft'));
                 }});
@@ -273,7 +273,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'PlaynGo Slots | Situs Dewa Slot 88 Terpercaya | Dewi Fortuna';
                 $("meta[name='description']").attr('content', 'PlaynGo Slots merupakan situs dewa slot 88 terpercaya. Saksikan keberuntungan Dewi fortuna yang siap datang mengunjungi anda.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/playngo');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/playngo');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/playngo'));
                 }});
@@ -282,7 +282,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Slot Onetouch | Naga | Badak | Star 777 | Indobet Terbaru';
                 $("meta[name='description']").attr('content', 'Onetouch merupakan game slot yang mempunyai gambar naga, badak, star dan juga berbagai gambar lainnya. Dengan angka 777 maka anda bisa mendapatkan jackpot slot terbesar bersama winbet299.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots/onetouch');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots/onetouch');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots/onetouch'));
                 }});
@@ -291,7 +291,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
             document.title = 'Slot Online Sultan Play | Situs Judi Para Sultan Di Indonesia | Winbet299';
             $("meta[name='description']").attr('content', 'Winbet slot adalah situs judi slot online untuk para sultan di Indonesia. Sultan Play mari bergabung bersama dengan winbet299.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/slots');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/slots');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/slots'));
             }});
@@ -301,7 +301,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Situs QQ Dewa Casino Royale Live Online RGO';
             $("meta[name='description']").attr('content', 'Situs QQ Dewa Casino Royale live. Agen judi RGO Online terpercaya di Indonesia. Dapatkan bonus setiap melakukan deposit di winbet 299.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/casino');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/casino');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/casino'));
             }});
@@ -310,7 +310,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Agen Idn Poker Online | Situs Dewa Judi Indonesia BalakPlay 1Gaming';
             $("meta[name='description']").attr('content', 'Winbet299 - Agen Idn Poker Online. Situs dewa judi Indonesia dengan ribuan member yang sudah bergabung. Tersedia BalakPlay 1Gaming dan IDnPlay.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/poker');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/poker');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/poker'));
             }});
@@ -320,7 +320,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
             $(document).ready(function(){
                 document.title = 'Joker Fishing | Muka Joker Bola 123 Slot';
                 $("meta[name='description']").attr('content', 'Tembak ikan terbaik di kelasnya dengan berbagai provider seperti Joker Fishing. Selain itu juga tersedia slot 123 dan juga muka joker bola.');
-                $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/arcade#jokerFishing');
+                $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/arcade#jokerFishing');
                 if(document.URL.indexOf('desktop')>0){
                 $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/fishing-joker'));
                 }});
@@ -329,7 +329,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Arcade Game | Capit Duit | Tembak Ikan | Winbet299 Indonesia';
             $("meta[name='description']").attr('content', 'Arcade game yang terdiri dari claw machine games, tembak ikan, MM Tangkas, Capit Duit dan Fishing World 2. Games ini hanya bisa dimainkan di Indonesia dan di situs Winbet299.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/arcade');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/arcade');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/arcade'));
             }});
@@ -339,7 +339,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Situs Togel Online | Keluaran Angka 4D 3D 2D | SGP HK ISIN';
             $("meta[name='description']").attr('content', 'Keluaran agen togel sgp, hk, isin4d online indonesia. Tebak angka bisa dimulai dari 4D 3D 2D colok, shio dengan deposit yang murah dan diskon besar yang keluar setiap hari.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/others');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/others');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/others'));
             }});
@@ -348,7 +348,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Situs Togel Online | Keluaran Angka 4D 3D 2D | SGP HK ISIN';
             $("meta[name='description']").attr('content', 'Keluaran agen togel sgp, hk, isin4d online indonesia. Tebak angka bisa dimulai dari 4D 3D 2D colok, shio dengan deposit yang murah dan diskon besar yang keluar setiap hari.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/lottery');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/lottery');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/lottery'));
             }});
@@ -357,7 +357,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Sabung Ayam | Cock Fight | Agen Adu S128 Bangkok Online';
             $("meta[name='description']").attr('content', 'Sabung Ayam atau yang biasa disebut dengan cock fight adalah salah satu permainan adu ayam bangkok online. Agen yang kami berikan adalah berasal dari S128.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/cockfight');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/cockfight');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/cockfight'));
             }});
@@ -366,7 +366,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'Promo WS | Freebet | Bet Gratis | Bonus Deposit | Cashback Mingguan';
             $("meta[name='description']").attr('content', 'Dapatkan promo Ws atau winning streak, freebet atau bet gratis hanya di winbet299. Tidak ketinggalan juga bonus deposit setiap hari dan cashback mingguan yang bisa didapatkan.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/promotion');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/promotion');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/promotion'));
             }});
@@ -375,7 +375,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'WINBET299 | Slot Gacor | Slot Deposit Pulsa Tanpa Potongan';
             $("meta[name='description']").attr('content', 'Winbet299 situs judi slot gacor online yang memberikan jackpot dan bonus melimpah yang bisa didapatkan setiap hari. Mainkan slot deposit pulsa tanpa potongan pertama di Indonesia.');
-            $("link[rel='canonical']").attr('href', 'http://128.199.98.249/desktop/home');
+            $("link[rel='canonical']").attr('href', 'http://128.199.98.249:9443/desktop/home');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'http://128.199.98.249/mobile/home'));
             }});
