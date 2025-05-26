@@ -375,7 +375,7 @@ else if (document.URL.indexOf('128.199.98.249')>0){
         $(document).ready(function(){
             document.title = 'WINBET299 | Slot Gacor | Slot Deposit Pulsa Tanpa Potongan';
             $("meta[name='description']").attr('content', 'Winbet299 situs judi slot gacor online yang memberikan jackpot dan bonus melimpah yang bisa didapatkan setiap hari. Mainkan slot deposit pulsa tanpa potongan pertama di Indonesia.');
-            $("link[rel='canonical']").attr('href', 'https://128.199.98.249:1234/desktop/home');
+            $("link[rel='canonical']").attr('href', 'https://128.199.98.249:1234/');
             if(document.URL.indexOf('desktop')>0){
             $('head').append($('<link rel="alternate" media="only screen and (max-width: 640px)" />').attr('href', 'https://128.199.98.249:1234/mobile/home'));
             }});
